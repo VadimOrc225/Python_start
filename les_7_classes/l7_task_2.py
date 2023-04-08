@@ -15,8 +15,7 @@ length (длина в метрах), width (ширина в метрах).
 class Road:
     _road_length = 20000
     _road_width = 10
-    mass_for_1 = 1
-    height = 10
+
 
     def __init__(self):
         self.count_weight(Road._road_length, Road._road_width)

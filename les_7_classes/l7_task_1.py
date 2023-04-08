@@ -15,7 +15,7 @@
 
 class TrafficLight:
     import time
-    color = "color"
+
 
     def running(self):
         while True:
